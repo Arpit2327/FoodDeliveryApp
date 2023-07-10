@@ -1,0 +1,114 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name":"Chicken Fried Rice",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TB55N3mQ48Oht46ndnxocUCOrzZ4SNn-DA&usqp=CAU",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+        ],
+        "description":"Chicken Fried Rice is the most amazing stir-fry rice with colorful vegetables, chicken, and egg."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name":"Veg Fried Rice",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVznrggK3UYP2eJdqCt3mbwrvXu1uK8CD7Uw&usqp=CAU",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description":"An Asian dish made by stir frying cooked rice in a wok with vegetables, soya sauce etc."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name":"Veg Pulao",
+        "img": "https://i0.wp.com/flavoursofmykitchen.com/wp-content/uploads/2022/02/MG_0369-scaled.jpg?fit=2560%2C1438&ssl=1",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description":"A dish originating from the East, consisting of rice flavoured with spices and cooked in stock, to which meat, poultry, or fish may be added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name":"Cheese Balls",
+        "img": "https://c.ndtvimg.com/2019-03/7ilmvhfg_pasta-cheeseballs_625x300_22_March_19.jpg",
+        "options": [
+            {
+                "half": "60",
+                "full": "110"
+            }
+        ],
+        "description":"A cheese ball, at its most basic, is a mix of a creamy, spreadable cheese product, like cream cheese, and a firm, grated cheese."
+    },
+    {
+        "CategoryName": "Starter",
+        "name":"Bread Roll",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_0vJr4J0FqApTHb1tlxOGS8CBlkTewsYTQ&usqp=CAU",
+        "options": [
+            {
+                "half": "50",
+                "full": "80"
+            }
+        ],
+        "description":"A small, often round loaf of bread served as a meal accompaniment"
+    },
+    {
+        "CategoryName": "Starter",
+        "name":"Paneer Tikka",
+        "img":"https://www.vegrecipesofindia.com/wp-content/uploads/2011/10/grilled-paneer-tikka.jpg",
+        "options": [
+            {
+                "half": "60",
+                "full": "110"
+            }
+        ],
+        "description": "An Indian dish made from chunks of paneer/ chhena marinated in spices and grilled in a tandoor."
+        
+    },
+    {
+        "CategoryName": "Starter",
+        "name":"Idli Chaat",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Jyothi_Rajesh/Idli_Chaat.jpg",
+        "options": [
+            {
+                "half": "60",
+                "full": "110"
+            }
+        ],
+        "description":"A type of savoury rice cake, originating from South India."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name":"Margherita Pizza",
+        "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2Fb36036a54e1cf9c084f4b702a63e5a08f1e98983",
+        "options": [
+            {
+                "small": "110",
+                "medium": "250",
+                "large": "400"
+            }
+        ],
+        "description":"Pizza margherita, as the Italians call it, is a simple pizza hailing from Naples."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name":"Pepperoni Pizza",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98U5YiGT4SF00HVYqRhvH9FwiTxtwVN794Q&usqp=CAU",
+        "options": [
+            {
+                "small": "160",
+                "medium": "320",
+                "large": "540"
+            }
+        ],
+        "description":"An American pizza variety which includes one of the country's most beloved toppings."
+    }
+    
+]
